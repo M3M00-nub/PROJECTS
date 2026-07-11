@@ -1,0 +1,45 @@
+2026-07-10 21:07:34 — [INFO] === STOPTHEGEEK session started ===
+2026-07-10 21:07:41 — [INFO] Session started for user 'Memo' with budget $2000.00
+2026-07-10 21:07:41 — [WARNING] Invalid category selection: '' — retrying
+2026-07-10 21:07:51 — [INFO] Expense #1 registered — category: 'Health', amount: $1800.00, running total: $1800.00, remaining: $200.00
+2026-07-10 21:07:51 — [WARNING] 80% budget threshold reached — total $1800.00 of $2000.00
+2026-07-10 21:07:51 — [INFO] Agent recommendation triggered — category 'Health' is 100% of total spending: Preventive habits (exercise, sleep) can reduce long-term health expenses.
+2026-07-10 21:07:51 — [INFO] User chose to end session after 1 expense(s)
+2026-07-10 21:07:51 — [INFO] === Session ended — total expenses: $1800.00 / $2000.00 | status: ⚡ Approaching limit (80 %+ used) ===
+2026-07-10 21:07:56 — [INFO] === STOPTHEGEEK session started ===
+2026-07-10 21:08:04 — [INFO] Session started for user 'Memo' with budget $3000.00
+2026-07-10 21:08:20 — [INFO] Expense #1 registered — category: 'Personal Expenses', amount: $2800.00, running total: $2800.00, remaining: $200.00
+2026-07-10 21:08:20 — [WARNING] 80% budget threshold reached — total $2800.00 of $3000.00
+2026-07-10 21:08:20 — [INFO] Agent recommendation triggered — category 'Personal Expenses' is 100% of total spending: Track discretionary spending weekly to identify patterns and cut unnecessary purchases.
+2026-07-10 21:08:20 — [INFO] User chose to end session after 1 expense(s)
+2026-07-10 21:08:20 — [INFO] === Session ended — total expenses: $2800.00 / $3000.00 | status: ⚡ Approaching limit (80 %+ used) ===
+2026-07-10 21:08:36 — [INFO] === STOPTHEGEEK session started ===
+2026-07-10 21:08:38 — [WARNING] Invalid numeric input received: '' — retrying
+2026-07-10 21:08:42 — [INFO] Session started for user 'Memote' with budget $1222.00
+2026-07-10 21:08:43 — [WARNING] Invalid numeric input received: '' — retrying
+2026-07-10 21:08:47 — [INFO] Expense #1 registered — category: 'Transportation', amount: $321.00, running total: $321.00, remaining: $901.00
+2026-07-10 21:08:47 — [INFO] Agent recommendation triggered — category 'Transportation' is 100% of total spending: Consider using public transit or carpooling to cut costs and reduce your carbon footprint.
+2026-07-10 21:08:53 — [INFO] Expense #2 registered — category: 'Entertainment', amount: $1223.00, running total: $1544.00, remaining: $-322.00
+2026-07-10 21:08:53 — [ERROR] Budget exceeded! Total $1544.00 > Budget $1222.00 (over by $322.00)
+2026-07-10 21:08:53 — [INFO] Agent recommendation triggered — category 'Entertainment' is 79% of total spending: Try free local events or rotate streaming subscriptions to lower entertainment costs.
+2026-07-10 21:08:53 — [INFO] User chose to end session after 2 expense(s)
+2026-07-10 21:08:53 — [INFO] === Session ended — total expenses: $1544.00 / $1222.00 | status: ⚠  Budget EXCEEDED ===
+2026-07-10 21:53:42 — [INFO] === STOPTHEGEEK session started ===
+2026-07-10 21:53:50 — [WARNING] Invalid numeric input received: '' — retrying
+2026-07-10 21:53:50 — [WARNING] Invalid numeric input received: '' — retrying
+2026-07-10 21:54:07 — [INFO] Session started for user 'Memo' with budget $2000.00
+2026-07-10 21:54:08 — [WARNING] Invalid category selection: '2000' — retrying
+2026-07-10 21:54:10 — [WARNING] Invalid numeric input received: '' — retrying
+2026-07-10 21:54:12 — [INFO] Expense #1 registered — category: 'Transportation', amount: $2000.00, running total: $2000.00, remaining: $0.00
+2026-07-10 21:54:12 — [WARNING] 80% budget threshold reached — total $2000.00 of $2000.00
+2026-07-10 21:54:12 — [INFO] Agent recommendation triggered — category 'Transportation' is 100% of total spending: Consider using public transit or carpooling to cut costs and reduce your carbon footprint.
+2026-07-10 21:54:15 — [INFO] User chose to end session after 1 expense(s)
+2026-07-10 21:54:15 — [INFO] === Session ended — total expenses: $2000.00 / $2000.00 | status: ⚡ Approaching limit (80 %+ used) ===
+2026-07-10 22:35:30 — [INFO] === STOPTHEGEEK session started ===
+2026-07-10 22:35:32 — [WARNING] Invalid numeric input received: '' — retrying
+2026-07-10 22:35:36 — [INFO] Session started for user 'Memo' with budget $2000.00
+2026-07-10 22:35:36 — [WARNING] Invalid category selection: '' — retrying
+2026-07-10 22:35:46 — [INFO] Expense #1 registered — category: 'Food', amount: $1500.00, running total: $1500.00, remaining: $500.00
+2026-07-10 22:35:46 — [INFO] Agent recommendation triggered — category 'Food' is 100% of total spending: Consider meal prepping at home to reduce food expenses and food waste.
+2026-07-10 22:35:46 — [INFO] User chose to end session after 1 expense(s)
+2026-07-10 22:35:46 — [INFO] === Session ended — total expenses: $1500.00 / $2000.00 | status: ✓  Budget under control ===
